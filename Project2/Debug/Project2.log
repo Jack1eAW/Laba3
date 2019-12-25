@@ -1,0 +1,5 @@
+﻿  func.cpp
+  laba2.cpp
+C:\Users\noI-i\Desktop\Project2\laba2.cpp(8,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Создание кода...
+  Project2.vcxproj -> C:\Users\noI-i\Desktop\Project2\Debug\Project2.exe
